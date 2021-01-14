@@ -1,4 +1,5 @@
-
+#Author: James Maze
+#Purpose: Plotting PME data from F20 deployment
 
 # 1. Load Packages and set data_dir --------------------------------------------------------
 
